@@ -1,0 +1,17 @@
+{
+  "name": "genpark-bbr-congestion-control-pacer-skill",
+  "version": "1.0.0",
+  "description": "BBR (Bottleneck Bandwidth and Round-trip propagation time) congestion control state machine calculating model parameters, pacing gain, and packet delivery rates.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bbr",
+    "congestion-control",
+    "networking",
+    "transport-layer",
+    "bandwidth-estimation"
+  ],
+  "dependencies": []
+}
